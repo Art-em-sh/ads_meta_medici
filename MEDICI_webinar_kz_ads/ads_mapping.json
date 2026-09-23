@@ -140,16 +140,16 @@
     "pixel_dataset_name": "medicieffect",
     "campaign_id": "120255648279320628",
     "campaign_name": "MEDICI — Webinar 5steps_kz — Lead (paused)",
-    "campaign_status": "PAUSED",
+    "campaign_status": "ACTIVE",
     "campaign_budget_type": "CBO (campaign daily budget)",
     "campaign_daily_budget_usd": 25,
     "ad_set_id": "120255648284300628",
     "ad_set_name": "Webinar 5steps_kz — 4 концепта (KZ, жен 24-40)",
-    "ad_set_status": "PAUSED",
+    "ad_set_status": "ACTIVE",
     "optimization_goal": "OFFSITE_CONVERSIONS",
     "optimization_event": "LEAD",
     "optimization_event_note": "Пиксель medicieffect уже реально шлёт стандартное событие Lead с womenuni.com/5steps_kz (подтверждено по ads_get_dataset_stats на момент запуска — 8 событий Lead за предыдущую неделю), отдельно настраивать не пришлось.",
-    "targeting": "Казахстан (KZ), женщины, возраст 24-40 (Advantage+ Audience оставлен включённым — 24-40 передан как suggestion, не жёсткий кап)",
+    "targeting": "Казахстан (KZ), женщины, возраст 24-40 жёстко (Advantage+ Audience выключен явно — targeting_automation.advantage_audience=0 — после того как при первом создании 24-40 применился только как suggestion, а фактический age_min/age_max был 18-65; исправлено перед активацией)",
     "destination_url": "https://womenuni.com/5steps_kz",
     "utm_mechanism": "UTM встроены прямо в link_url креатива (utm_source=meta_{{site_source_name}}, utm_medium=webinar_lead, utm_campaign=5steps_kz_webinar, utm_content=<концепт>) — через официальный claude.ai Meta Ads MCP connector, аккаунт 207779728749375 имеет is_ads_mcp_enabled=true. НЕ пробовали отдельное поле url_tags (по опыту NOWA оно на dev-mode токене блокируется; здесь просто не понадобилось, т.к. официальный коннектор принимает UTM прямо в link_url).",
     "call_to_action_type": "SIGN_UP для всех 5 объявлений — ближайший стандартный тип к тексту кнопки «Бесплатная регистрация» из ТЗ; для креатива 4 в ТЗ был другой текст кнопки («Покажем как — бесплатная регистрация»), но Meta API не поддерживает произвольный текст кнопки для этого формата, оставлен тот же SIGN_UP.",
@@ -161,6 +161,6 @@
       "ai_photographer": { "creative_id": "2095059688069190", "ad_id": "120255648331080628" },
       "carousel_5steps": { "creative_id": "1356259962969811", "ad_id": "120255648332510628" }
     },
-    "status_summary": "5 объявлений (первый шаг, 2 A/B-варианта \"сколько платят\", ai_photographer, карусель на 7 слайдов) созданы под 1 campaign + 1 ad set, ВСЁ НА ПАУЗЕ. Бюджет не тратится. Требуется ручная активация. Каждое объявление использует один основной формат изображения (1x1 или 4x5) на все плейсменты — 9x16-версии для Stories/Reels из этого пакета пока не задействованы отдельным объявлением (можно добавить вторым ad при необходимости)."
+    "status_summary": "5 объявлений (первый шаг, 2 A/B-варианта \"сколько платят\", ai_photographer, карусель на 7 слайдов) созданы под 1 campaign + 1 ad set, АКТИВИРОВАНО 2026-09-23 (campaign + ad set + все 5 ads переведены PAUSED → ACTIVE по явному подтверждению пользователя). Бюджет расходуется, дата окончания не выставлена — остановить вручную через ads_update_entity/Ads Manager. Effective_status объявлений на момент активации — PENDING_REVIEW (обычная модерация Meta, не ошибка). Каждое объявление использует один основной формат изображения (1x1 или 4x5) на все плейсменты — 9x16-версии для Stories/Reels из этого пакета пока не задействованы отдельным объявлением (можно добавить вторым ad при необходимости). Карусель: все 7 карточек получили дефолтный заголовок вместо текста по шагам из ТЗ — оставлено как есть по решению пользователя, креативы неизменяемы после создания."
   }
 }
