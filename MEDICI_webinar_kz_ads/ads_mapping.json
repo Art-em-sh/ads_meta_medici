@@ -1,0 +1,137 @@
+{
+  "brand": "MEDICI (ЭФФЕКТ МЕДИЧИ / womenuni.com)",
+  "wave": "webinar_kz",
+  "offer_type": "регистрация на бесплатный вебинар «5 шагов, как начать зарабатывать от 300.000 ₸/мес на нейросетях»",
+  "language": "ru",
+  "geo": "KZ",
+  "generated_at": "2026-09-23",
+  "source_files": {
+    "brief": "TZ_kz_webinar_kreativy_statika.md",
+    "creatives_dir": "Трафик Медичи — креативы KZ/PNG",
+    "captions_source": "Трафик Медичи — креативы KZ/Подписи к публикациям.txt",
+    "landing_url": "https://womenuni.com/5steps_kz"
+  },
+  "notes": [
+    "Шаг 1 (этот файл): только выгрузка картинок на GitHub с мапингом файл->URL. Тексты объявлений, UTM, CTA и запуск в Meta — следующие шаги, ещё не сделаны.",
+    "4 концепта (креатив 1-4 по нумерации подписей), у некоторых по несколько вариантов/слайдов и отношений сторон под разные плейсменты: 01_first_step (1 вариант, 2 формата), 02_carousel (карусель на 7 слайдов, выгружена в 2 форматах — 1x1 и 4x5 — как альтернативные наборы под разные плейсменты, не 7x2 отдельных объявления), 03 (2 варианта одного оффера — night_photo и notifications — по 2 формата), 04_ai_photographer (1 вариант, 2 формата).",
+    "caption_ru — черновой текст подписи к посту из Подписи к публикациям.txt, привязка креатив 1/2/3/4 к порядку в этом файле; это не финальный ad copy для Meta."
+  ],
+  "concepts": [
+    {
+      "concept_id": "first_step",
+      "concept_number": 1,
+      "caption_ru": "Не знаете, с чего начать зарабатывать на нейросетях? На бесплатном вебинаре «5 шагов» покажем конкретный путь — даже если сейчас нет вообще никакого опыта.\n\nЗа 2 часа разберём: что такое нейросети и как они экономят время на любой работе, 5 шагов заработка удалённо даже для новичка, какие удалённые профессии сейчас востребованы и сколько на них реально платят.\n\nБесплатная регистрация — по кнопке.",
+      "type": "single",
+      "assets": [
+        {
+          "ratio": "4x5",
+          "file": "01_first_step_4x5.png",
+          "width": 1080,
+          "height": 1350,
+          "repo_path": "MEDICI_webinar_kz_ads/creatives/01_first_step_4x5.png",
+          "github_raw_url": "https://raw.githubusercontent.com/Art-em-sh/ads_meta_medici/main/MEDICI_webinar_kz_ads/creatives/01_first_step_4x5.png",
+          "github_url": "https://github.com/Art-em-sh/ads_meta_medici/blob/main/MEDICI_webinar_kz_ads/creatives/01_first_step_4x5.png"
+        },
+        {
+          "ratio": "9x16",
+          "file": "01_first_step_9x16.png",
+          "width": 1080,
+          "height": 1920,
+          "repo_path": "MEDICI_webinar_kz_ads/creatives/01_first_step_9x16.png",
+          "github_raw_url": "https://raw.githubusercontent.com/Art-em-sh/ads_meta_medici/main/MEDICI_webinar_kz_ads/creatives/01_first_step_9x16.png",
+          "github_url": "https://github.com/Art-em-sh/ads_meta_medici/blob/main/MEDICI_webinar_kz_ads/creatives/01_first_step_9x16.png"
+        }
+      ]
+    },
+    {
+      "concept_id": "carousel",
+      "concept_number": 2,
+      "caption_ru": "5 шагов — программа бесплатного вебинара, без распродажи курса между блоками.\n\nЧто разберём: что такое нейросети, как на них зарабатывают, сколько платят AI-специалистам, какие профессии подходят и как использовать нейросети в быту.\n\n2 часа на 5 тем. Бесплатная регистрация — по кнопке.",
+      "type": "carousel",
+      "variants": [
+        {
+          "ratio": "1x1",
+          "slides": [
+            { "slide": 1, "file": "02_carousel_1x1_slide_01.png", "width": 1080, "height": 1080, "repo_path": "MEDICI_webinar_kz_ads/creatives/02_carousel_1x1_slide_01.png", "github_raw_url": "https://raw.githubusercontent.com/Art-em-sh/ads_meta_medici/main/MEDICI_webinar_kz_ads/creatives/02_carousel_1x1_slide_01.png", "github_url": "https://github.com/Art-em-sh/ads_meta_medici/blob/main/MEDICI_webinar_kz_ads/creatives/02_carousel_1x1_slide_01.png" },
+            { "slide": 2, "file": "02_carousel_1x1_slide_02.png", "width": 1080, "height": 1080, "repo_path": "MEDICI_webinar_kz_ads/creatives/02_carousel_1x1_slide_02.png", "github_raw_url": "https://raw.githubusercontent.com/Art-em-sh/ads_meta_medici/main/MEDICI_webinar_kz_ads/creatives/02_carousel_1x1_slide_02.png", "github_url": "https://github.com/Art-em-sh/ads_meta_medici/blob/main/MEDICI_webinar_kz_ads/creatives/02_carousel_1x1_slide_02.png" },
+            { "slide": 3, "file": "02_carousel_1x1_slide_03.png", "width": 1080, "height": 1080, "repo_path": "MEDICI_webinar_kz_ads/creatives/02_carousel_1x1_slide_03.png", "github_raw_url": "https://raw.githubusercontent.com/Art-em-sh/ads_meta_medici/main/MEDICI_webinar_kz_ads/creatives/02_carousel_1x1_slide_03.png", "github_url": "https://github.com/Art-em-sh/ads_meta_medici/blob/main/MEDICI_webinar_kz_ads/creatives/02_carousel_1x1_slide_03.png" },
+            { "slide": 4, "file": "02_carousel_1x1_slide_04.png", "width": 1080, "height": 1080, "repo_path": "MEDICI_webinar_kz_ads/creatives/02_carousel_1x1_slide_04.png", "github_raw_url": "https://raw.githubusercontent.com/Art-em-sh/ads_meta_medici/main/MEDICI_webinar_kz_ads/creatives/02_carousel_1x1_slide_04.png", "github_url": "https://github.com/Art-em-sh/ads_meta_medici/blob/main/MEDICI_webinar_kz_ads/creatives/02_carousel_1x1_slide_04.png" },
+            { "slide": 5, "file": "02_carousel_1x1_slide_05.png", "width": 1080, "height": 1080, "repo_path": "MEDICI_webinar_kz_ads/creatives/02_carousel_1x1_slide_05.png", "github_raw_url": "https://raw.githubusercontent.com/Art-em-sh/ads_meta_medici/main/MEDICI_webinar_kz_ads/creatives/02_carousel_1x1_slide_05.png", "github_url": "https://github.com/Art-em-sh/ads_meta_medici/blob/main/MEDICI_webinar_kz_ads/creatives/02_carousel_1x1_slide_05.png" },
+            { "slide": 6, "file": "02_carousel_1x1_slide_06.png", "width": 1080, "height": 1080, "repo_path": "MEDICI_webinar_kz_ads/creatives/02_carousel_1x1_slide_06.png", "github_raw_url": "https://raw.githubusercontent.com/Art-em-sh/ads_meta_medici/main/MEDICI_webinar_kz_ads/creatives/02_carousel_1x1_slide_06.png", "github_url": "https://github.com/Art-em-sh/ads_meta_medici/blob/main/MEDICI_webinar_kz_ads/creatives/02_carousel_1x1_slide_06.png" },
+            { "slide": 7, "file": "02_carousel_1x1_slide_07.png", "width": 1080, "height": 1080, "repo_path": "MEDICI_webinar_kz_ads/creatives/02_carousel_1x1_slide_07.png", "github_raw_url": "https://raw.githubusercontent.com/Art-em-sh/ads_meta_medici/main/MEDICI_webinar_kz_ads/creatives/02_carousel_1x1_slide_07.png", "github_url": "https://github.com/Art-em-sh/ads_meta_medici/blob/main/MEDICI_webinar_kz_ads/creatives/02_carousel_1x1_slide_07.png" }
+          ]
+        },
+        {
+          "ratio": "4x5",
+          "slides": [
+            { "slide": 1, "file": "02_carousel_4x5_slide_01.png", "width": 1080, "height": 1350, "repo_path": "MEDICI_webinar_kz_ads/creatives/02_carousel_4x5_slide_01.png", "github_raw_url": "https://raw.githubusercontent.com/Art-em-sh/ads_meta_medici/main/MEDICI_webinar_kz_ads/creatives/02_carousel_4x5_slide_01.png", "github_url": "https://github.com/Art-em-sh/ads_meta_medici/blob/main/MEDICI_webinar_kz_ads/creatives/02_carousel_4x5_slide_01.png" },
+            { "slide": 2, "file": "02_carousel_4x5_slide_02.png", "width": 1080, "height": 1350, "repo_path": "MEDICI_webinar_kz_ads/creatives/02_carousel_4x5_slide_02.png", "github_raw_url": "https://raw.githubusercontent.com/Art-em-sh/ads_meta_medici/main/MEDICI_webinar_kz_ads/creatives/02_carousel_4x5_slide_02.png", "github_url": "https://github.com/Art-em-sh/ads_meta_medici/blob/main/MEDICI_webinar_kz_ads/creatives/02_carousel_4x5_slide_02.png" },
+            { "slide": 3, "file": "02_carousel_4x5_slide_03.png", "width": 1080, "height": 1350, "repo_path": "MEDICI_webinar_kz_ads/creatives/02_carousel_4x5_slide_03.png", "github_raw_url": "https://raw.githubusercontent.com/Art-em-sh/ads_meta_medici/main/MEDICI_webinar_kz_ads/creatives/02_carousel_4x5_slide_03.png", "github_url": "https://github.com/Art-em-sh/ads_meta_medici/blob/main/MEDICI_webinar_kz_ads/creatives/02_carousel_4x5_slide_03.png" },
+            { "slide": 4, "file": "02_carousel_4x5_slide_04.png", "width": 1080, "height": 1350, "repo_path": "MEDICI_webinar_kz_ads/creatives/02_carousel_4x5_slide_04.png", "github_raw_url": "https://raw.githubusercontent.com/Art-em-sh/ads_meta_medici/main/MEDICI_webinar_kz_ads/creatives/02_carousel_4x5_slide_04.png", "github_url": "https://github.com/Art-em-sh/ads_meta_medici/blob/main/MEDICI_webinar_kz_ads/creatives/02_carousel_4x5_slide_04.png" },
+            { "slide": 5, "file": "02_carousel_4x5_slide_05.png", "width": 1080, "height": 1350, "repo_path": "MEDICI_webinar_kz_ads/creatives/02_carousel_4x5_slide_05.png", "github_raw_url": "https://raw.githubusercontent.com/Art-em-sh/ads_meta_medici/main/MEDICI_webinar_kz_ads/creatives/02_carousel_4x5_slide_05.png", "github_url": "https://github.com/Art-em-sh/ads_meta_medici/blob/main/MEDICI_webinar_kz_ads/creatives/02_carousel_4x5_slide_05.png" },
+            { "slide": 6, "file": "02_carousel_4x5_slide_06.png", "width": 1080, "height": 1350, "repo_path": "MEDICI_webinar_kz_ads/creatives/02_carousel_4x5_slide_06.png", "github_raw_url": "https://raw.githubusercontent.com/Art-em-sh/ads_meta_medici/main/MEDICI_webinar_kz_ads/creatives/02_carousel_4x5_slide_06.png", "github_url": "https://github.com/Art-em-sh/ads_meta_medici/blob/main/MEDICI_webinar_kz_ads/creatives/02_carousel_4x5_slide_06.png" },
+            { "slide": 7, "file": "02_carousel_4x5_slide_07.png", "width": 1080, "height": 1350, "repo_path": "MEDICI_webinar_kz_ads/creatives/02_carousel_4x5_slide_07.png", "github_raw_url": "https://raw.githubusercontent.com/Art-em-sh/ads_meta_medici/main/MEDICI_webinar_kz_ads/creatives/02_carousel_4x5_slide_07.png", "github_url": "https://github.com/Art-em-sh/ads_meta_medici/blob/main/MEDICI_webinar_kz_ads/creatives/02_carousel_4x5_slide_07.png" }
+          ]
+        }
+      ]
+    },
+    {
+      "concept_id": "how_much_ai_specialists_earn",
+      "concept_number": 3,
+      "caption_ru": "Сколько реально платят специалисту по нейросетям — без «заработай 500 тысяч за неделю».\n\nНа бесплатном вебинаре разберём реальные цифры: где искать платежеспособных клиентов, какие профессии на нейросетях сейчас востребованы удалённо и сколько на них платят.\n\n2 часа. Бесплатная регистрация — по кнопке.",
+      "type": "variants",
+      "variants": [
+        {
+          "variant_id": "night_photo",
+          "assets": [
+            { "ratio": "1x1", "file": "03_night_photo_1x1.png", "width": 1080, "height": 1080, "repo_path": "MEDICI_webinar_kz_ads/creatives/03_night_photo_1x1.png", "github_raw_url": "https://raw.githubusercontent.com/Art-em-sh/ads_meta_medici/main/MEDICI_webinar_kz_ads/creatives/03_night_photo_1x1.png", "github_url": "https://github.com/Art-em-sh/ads_meta_medici/blob/main/MEDICI_webinar_kz_ads/creatives/03_night_photo_1x1.png" },
+            { "ratio": "9x16", "file": "03_night_photo_9x16.png", "width": 1080, "height": 1920, "repo_path": "MEDICI_webinar_kz_ads/creatives/03_night_photo_9x16.png", "github_raw_url": "https://raw.githubusercontent.com/Art-em-sh/ads_meta_medici/main/MEDICI_webinar_kz_ads/creatives/03_night_photo_9x16.png", "github_url": "https://github.com/Art-em-sh/ads_meta_medici/blob/main/MEDICI_webinar_kz_ads/creatives/03_night_photo_9x16.png" }
+          ]
+        },
+        {
+          "variant_id": "notifications",
+          "assets": [
+            { "ratio": "1x1", "file": "03_notifications_1x1.png", "width": 1080, "height": 1080, "repo_path": "MEDICI_webinar_kz_ads/creatives/03_notifications_1x1.png", "github_raw_url": "https://raw.githubusercontent.com/Art-em-sh/ads_meta_medici/main/MEDICI_webinar_kz_ads/creatives/03_notifications_1x1.png", "github_url": "https://github.com/Art-em-sh/ads_meta_medici/blob/main/MEDICI_webinar_kz_ads/creatives/03_notifications_1x1.png" },
+            { "ratio": "9x16", "file": "03_notifications_9x16.png", "width": 1080, "height": 1920, "repo_path": "MEDICI_webinar_kz_ads/creatives/03_notifications_9x16.png", "github_raw_url": "https://raw.githubusercontent.com/Art-em-sh/ads_meta_medici/main/MEDICI_webinar_kz_ads/creatives/03_notifications_9x16.png", "github_url": "https://github.com/Art-em-sh/ads_meta_medici/blob/main/MEDICI_webinar_kz_ads/creatives/03_notifications_9x16.png" }
+          ]
+        }
+      ]
+    },
+    {
+      "concept_id": "ai_photographer",
+      "concept_number": 4,
+      "caption_ru": "Продаёшь в соцсетях, но нет денег на фотостудию? Нейросети собирают профессиональные фото товара за 15 минут, не выходя из дома.\n\nНа бесплатном вебинаре покажем, как это делают: обзор нейросетей для визуала и как встроить это в повседневную работу.\n\n2 часа. Бесплатная регистрация — по кнопке.",
+      "type": "single",
+      "assets": [
+        {
+          "ratio": "1x1",
+          "file": "04_ai_photographer_1x1.png",
+          "width": 1080,
+          "height": 1080,
+          "repo_path": "MEDICI_webinar_kz_ads/creatives/04_ai_photographer_1x1.png",
+          "github_raw_url": "https://raw.githubusercontent.com/Art-em-sh/ads_meta_medici/main/MEDICI_webinar_kz_ads/creatives/04_ai_photographer_1x1.png",
+          "github_url": "https://github.com/Art-em-sh/ads_meta_medici/blob/main/MEDICI_webinar_kz_ads/creatives/04_ai_photographer_1x1.png"
+        },
+        {
+          "ratio": "4x5",
+          "file": "04_ai_photographer_4x5.png",
+          "width": 1080,
+          "height": 1350,
+          "repo_path": "MEDICI_webinar_kz_ads/creatives/04_ai_photographer_4x5.png",
+          "github_raw_url": "https://raw.githubusercontent.com/Art-em-sh/ads_meta_medici/main/MEDICI_webinar_kz_ads/creatives/04_ai_photographer_4x5.png",
+          "github_url": "https://github.com/Art-em-sh/ads_meta_medici/blob/main/MEDICI_webinar_kz_ads/creatives/04_ai_photographer_4x5.png"
+        }
+      ]
+    }
+  ],
+  "github": {
+    "owner": "Art-em-sh",
+    "repo": "ads_meta_medici",
+    "branch": "main",
+    "repo_url": "https://github.com/Art-em-sh/ads_meta_medici",
+    "creatives_path_in_repo": "MEDICI_webinar_kz_ads/creatives/"
+  },
+  "meta_launch": {
+    "status": "not started — этот файл только про выгрузку картинок на GitHub. Оффер/лендинг/пиксель/аккаунт/тексты/UTM для запуска в Meta ещё не согласованы."
+  }
+}
